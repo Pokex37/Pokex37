@@ -1,7 +1,4 @@
-### Hola soy ALAN 👋
 
-<!--
-**Pokex37/Pokex37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ### Hola 👋, mi nombre es Alan Poquechoque
 #### **soy desarrollador de software**
 ![**soy desarrollador de software**](https://pokex37.com/banner)
